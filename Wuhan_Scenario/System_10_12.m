@@ -1,4 +1,4 @@
-% This program solves system 10-12 of the manuscript "The SARS-CoV-2 epidemic
+% This program solves system 10-12 of preprint "The SARS-CoV-2 epidemic
 % outbreak: a review of plausible scenarios of containment and mitigation for
 % Mexico" using the 4th order Runge-Kutta method. The outputs are: 
 % 1) .txt files with the solution for each instant of time, 2) prevalence graph,
